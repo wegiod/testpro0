@@ -1,0 +1,54 @@
+{
+  "uid" : "f41117bfcca9f10d",
+  "name" : "test_skip",
+  "fullName" : "test_allured#test_skip",
+  "historyId" : "5247385f6c5a68e10ba976c3a5cd50c0",
+  "time" : {
+    "start" : 1616058330410,
+    "stop" : 1616058330410,
+    "duration" : 0
+  },
+  "description" : "this test is skipped",
+  "descriptionHtml" : "<p>this test is skipped</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: for a reason!",
+  "statusTrace" : "('/Users/giod/PycharmProjects/testpro0/python/test_allured.py', 19, 'Skipped: for a reason!')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_allured"
+  }, {
+    "name" : "host",
+    "value" : "gioddeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "98301-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_allured"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f41117bfcca9f10d.json",
+  "parameterValues" : [ ]
+}
